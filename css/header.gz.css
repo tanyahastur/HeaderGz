@@ -1,0 +1,13 @@
+body {
+    background: #373737 url("../images/headbg.jpg") no-repeat center top;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+    color: #fff;
+}
+#main {
+    width: 791px;
+    height: 359px;
+    position: relative;
+    margin: 0 auto;
+}
